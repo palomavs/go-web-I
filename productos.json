@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nombre": "prod1",
+        "color": "rojo",
+        "precio": 100.50,
+        "stock": 200,
+        "codigo": "5TF8A",
+        "publicado": true,
+        "fechaCreacion": "12-12-2021"
+    },
+    {
+        "id": 2,
+        "nombre": "prod2",
+        "color": "verde",
+        "precio": 30.75,
+        "stock": 100,
+        "codigo": "1TY4P",
+        "publicado": true,
+        "fechaCreacion": "13-12-2021"
+    },
+    {
+        "id": 3,
+        "nombre": "prod3",
+        "color": "violeta",
+        "precio": 350.50,
+        "stock": 230,
+        "codigo": "0RS9B",
+        "publicado": false,
+        "fechaCreacion": "14-12-2021"
+    }
+]
